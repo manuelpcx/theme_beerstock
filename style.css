@@ -1,0 +1,64 @@
+body {
+	font-family: 'Anton', sans-serif;
+}
+
+#services {
+	background: #FFFA97;
+
+}
+
+h2 {
+	text-align: center;
+	font-family: 'Kaushan Script', cursive;
+}
+
+#services .card {
+	border-radius: 50px;
+}
+
+#product .card{
+	border-radius: 50px;
+}
+
+.card img {
+	width: 100%;
+}
+
+.contenedor{
+    position: relative;
+    display: inline;
+    text-align: center;
+}
+.contenedor img{
+	width: 100%;
+	height: 500px;
+}
+ 
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.centrado h1{
+	color: white;
+	font-family: 'Kaushan Script', cursive;
+}
+
+.navbar-brand{
+	font-family: 'Kaushan Script', cursive;
+}
+
+#services i{
+	text-align: center;
+}
+
+footer ul li{
+	list-style: none;
+	text-align: left;
+}
+
+footer h3{
+	font-family: 'Kaushan Script', cursive;
+}
